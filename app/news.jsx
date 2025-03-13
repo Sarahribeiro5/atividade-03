@@ -9,7 +9,7 @@ export default function News() {
             />
             <Text style={styles.title}>Melhor desenho do mundo</Text>
             <Text style={styles.content}>
-                Venha explorar o universo de Monster High! Um jogo reinventado de mundo aberto da Rockstar Games, Red Dead Redemption 2, agora para PC. Com novos conteúdos para a história, melhorias visuais e técnicas, além de novas atualizações de recursos para o modo de história e o Red Dead Online.
+                Venha explorar o universo de Monster High! Monster High é uma franquia de bonecas e mídia que conta a história de adolescentes monstros que frequentam uma escola especial. 
             </Text>
         </View>
     );
