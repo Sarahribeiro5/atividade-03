@@ -9,7 +9,7 @@ export default function News() {
             />
             <Text style={styles.title}>Melhor desenho do mundo</Text>
             <Text style={styles.content}>
-                Venha explorar o universo de Monster High! Monster High é uma franquia de bonecas e mídia que conta a história de adolescentes monstros que frequentam uma escola especial. 
+                Monster High ganha mais uma uma vez como o melhor desenho do ano!!!
             </Text>
         </View>
     );
