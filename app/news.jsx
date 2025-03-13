@@ -9,7 +9,7 @@ export default function News() {
             />
             <Text style={styles.title}>Melhor desenho do mundo</Text>
             <Text style={styles.content}>
-                Monster High ganha mais uma uma vez como o melhor desenho do ano!!!
+                O desenho Monster High ganha mais uma uma vez como o melhor desenho do ano!!!
             </Text>
         </View>
     );
